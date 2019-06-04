@@ -1,0 +1,35 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFrINGJMiRH1tc=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model1",
+			"ownedElements": [
+				{
+					"_type": "ERDDataModel",
+					"_id": "AAAAAAFrINGsoCRNrfQ=",
+					"_parent": {
+						"$ref": "AAAAAAFrINGJMiRH1tc="
+					},
+					"name": "Data Model1",
+					"ownedElements": [
+						{
+							"_type": "ERDDiagram",
+							"_id": "AAAAAAFrINGsoCROrwo=",
+							"_parent": {
+								"$ref": "AAAAAAFrINGsoCRNrfQ="
+							},
+							"name": "ERDDiagram1"
+						}
+					]
+				}
+			]
+		}
+	]
+}
